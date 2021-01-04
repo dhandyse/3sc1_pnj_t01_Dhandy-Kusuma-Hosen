@@ -1,2 +1,3 @@
 NO.REG: 1920010051
 Nama: Dhandy Kusuma Hosen
+Jurusan: Software Engineering
